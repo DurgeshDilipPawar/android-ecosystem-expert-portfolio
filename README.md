@@ -1,124 +1,85 @@
-Durgesh Pawar – Android & AOSP Developer Portfolio
+# android-ecosystem-expert-portfolio
+Android ecosystem portfolio showcasing 8+ years of expertise across apps, AOSP, and Automotive domains.
 
-Welcome to my professional portfolio. I’m an Android Developer with 8+ years of experience building robust, secure, and scalable solutions across consumer mobile apps, embedded AOSP layers, and in-vehicle infotainment (IVI) systems.
+# 🚀 Durgesh Pawar – Android & AOSP Developer Portfolio
 
-⸻
+Welcome to my professional portfolio repository. I’m an Android Developer with 8+ years of experience building reliable, secure, and scalable mobile and IVI solutions. From consumer apps using Jetpack Compose to system-level development on Android Automotive OS — this space reflects my journey, skills, and project highlights.
 
-✅ Key Skills & Expertise
+---
 
-📱 Android App Development
-	•	Languages: Kotlin, Java, XML
-	•	Jetpack: Compose, Room, LiveData, Navigation, WorkManager
-	•	Architecture: MVVM, Clean Architecture, Repository Pattern, SOLID Principles
-	•	Async & DI: Coroutines, Flow, StateFlow, Hilt, Dagger
-	•	Testing: JUnit, Mockito, Espresso, Firebase Test Lab
+## ✅ Key Skills & Expertise
 
-🚘 AOSP & Android Automotive OS
-	•	Android Automotive OS (AAOS), AOSP customization
-	•	Car UI, System Apps (Dialer, Contacts, Logs), SystemUI modifications
-	•	Boot Sequence, Permissions, Intent Filters, HAL, HIDL, JNI
-	•	Telephony Stack, Bluetooth/BLE, Audio Routing
+### 📱 Android App Development
+- Kotlin, Java, XML
+- Jetpack Compose, Room, LiveData, ViewModel, Navigation
+- MVVM, Clean Architecture, Repository Pattern
+- Coroutines, Flows, WorkManager, Hilt/Dagger
 
-📶 IoT & SDK Integrations
-	•	Samsung SmartThings, Brivo, Allegion, ButterflyMX
-	•	Access systems, video door intercom, automation scenes
-	•	Thermostats, door locks, washing machines, sensors
+### 🚗 AOSP / Automotive OS
+- Android Automotive OS (AAOS)
+- Car UI Library, System Apps, Custom ROMs
+- Boot Sequence Debugging, Permissions, Intent Filters
+- Bluetooth Stack, Telephony, Audio Routing
 
-🔐 Security & System Optimization
-	•	ProGuard, R8, SSL Pinning, Encryption, Jetpack Security
-	•	SELinux (basics), Keystore, EncryptedFile, LeakCanary
-	•	APK reverse engineering, rooting, custom ROM flashing
+### 🔐 Security & Performance
+- ProGuard, R8, Encryption, SSL Pinning, Jetpack Security
+- LeakCanary, StrictMode, Firebase Performance Monitoring
 
-☁️ Firebase & APIs
-	•	FCM, Crashlytics, Firebase Auth, Realtime DB, Analytics
-	•	Google APIs: Maps, Places, YouTube, Gmail, Directions
-	•	API Debugging: Retrofit, OkHttp, Postman
+### ☁️ Firebase & APIs
+- Firebase Messaging, Auth, Crashlytics, Realtime Database
+- API debugging using Postman, Retrofit, OkHttp
 
-🛠 Tools & Workflow
-	•	Android Studio, Git, Gerrit, Gradle, Bitbucket, Jira, ClickUp
-	•	ADB, Logcat, Heap Dumps, Systrace, Figma, Notion
-	•	Agile/Scrum Practices, CI/CD (basic)
+### 🛠 Tools & Collaboration
+- Android Studio, Git, Gerrit, Bitbucket, Jira
+- ADB, Systrace, Heap Dumps, Figma, Notion
 
-⸻
+---
 
-📱 Production Android Apps (B2C / IoT / Mobility)
+## 📱 Production Android Apps (B2C / IoT / Mobility)
 
-App Name	Highlights	Tech Stack	Links
-Resident Portal	IoT app with smart unit control (lock, AC, outlets, sensors)	Kotlin, Jetpack, Firebase	Play Store
-Hotels Charme	Hotel booking, discovery, CMS backend	Kotlin, Retrofit, Glide	App Link
-Sobwa Transport	Airport package delivery via travelers	Kotlin, Firebase, Retrofit	App Link
-Diablo Spy App	Stealth background media capture app	Java, Retrofit, Background Services	Portal
-Track-It App	Real-time tracking app for fleet and logistics	Java, Firebase, Google Maps	Driver
-Tenga Social	Nearby business discovery and social feed	Kotlin, Firebase, Google Places	App Link
+| Project                  | Description                                                                 | Tech Stack                            | Links |
+|--------------------------|-----------------------------------------------------------------------------|----------------------------------------|-------|
+| Resident Portal App      | IoT controls (lock, fan, AC), scene creator, leak alerts, talkback UI       | Kotlin, Jetpack, Compose, Firebase     | [Resident Portal](https://tinyurl.com/rwsvz3j) |
+| Hotels Charme Caractere  | Hotel discovery, reviews, bookings, and CMS integration                     | Kotlin, Retrofit, Glide                | [App Link](https://tinyurl.com/yxv74w52) |
+| Sobwa Transport System   | Airport package delivery via travelers (Uber-for-parcels concept)           | Kotlin, Firebase, Retrofit             | [App Link](https://tinyurl.com/y9yccdnd) |
+| Diablo Spy App           | Background media capture and control for kids or employees                  | Java, Background Services, Retrofit    | [Portal](http://www.diablospy.com) |
+| Track-It App             | Fleet & delivery driver tracking (admin, customer, driver views)            | Java, Google Maps, Firebase            | [Driver](https://tinyurl.com/yydy8z44), [Customer](https://tinyurl.com/yyt92h7g) |
+| Tenga Social App         | Local business discovery, promotions, real-time post feed                   | Kotlin, Google Places, Firebase        | [App Link](http://tinyurl.com/y8ht34l9) |
 
+---
 
-⸻
+## 🚘 Automotive IVI Projects (Android Automotive / Embedded)
 
-🚘 Automotive IVI Projects
+| Project                   | Description                                                               | Tech Stack                              | Highlights |
+|---------------------------|----------------------------------------------------------------------------|------------------------------------------|------------|
+| Citroën Infotainment App  | Production IVI system for Stellantis brand using AOSP stack               | AOSP, Kotlin, SystemUI, HAL, HIDL        | Bluetooth, Car Settings, OTA |
+| McLaren IVI (Supercar)    | High-performance Android IVI build with premium UX features               | AOSP, Kotlin, JNI, HAL Debugging         | Boot Sequence, SystemUI Mods |
 
-Project	Description	Tech Stack	Highlights
-Citroën IVI	Native Dialer, Contacts, Logs apps for Stellantis vehicles	AOSP, Kotlin, HAL, HIDL, SystemUI	Optimized UX, Bluetooth stack, OTA
-McLaren IVI	Performance-driven infotainment UI for supercar model	AOSP, JNI, HAL Debugging, Car UI	Boot performance tuning, UX mods
+---
 
+## 🛠️ Demo & Showcase Projects
 
-⸻
+| Project                     | Description                                                             | Tech Stack                         |
+|-----------------------------|-------------------------------------------------------------------------|------------------------------------|
+| **Random Strings Generator**| Generate random strings using Compose UI with length customization      | Jetpack Compose, Hilt, MVVM        |
+| **Car Speed Dashboard**     | Speedometer UI with simulated car data using Canvas & State             | Compose, Canvas, Car UI            |
 
-🧪 Demo Projects
+---
 
-Project	Description	Stack
-Random String Generator	Compose UI tool to generate random text	Compose, MVVM, Hilt
-Car Speed Dashboard	Simulated IVI speedometer using Canvas + Compose	Compose, Canvas, Car UI
+## 📌 About Me
 
+I'm passionate about engineering clean, efficient Android experiences — whether it's for smartphones or infotainment systems.
 
-⸻
+📍 Pune, India  
+📧 [durgeshdilippawar@gmail.com](mailto:durgeshdilippawar@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/durgeshddilippawar/) 
 
-💼 Work Experience Summary
+---
 
-Senior Android Developer
-Forvia Faurecia (Jan 2023 – Jul 2025)
-	•	Developed IVI telephony system apps (Dialer, Logs, Contacts) for Citroën.
-	•	Integrated Android Automotive APIs, debugged HAL and system layers.
-	•	Led AOSP-based performance and UX improvements.
+## 🏁 Looking Ahead
 
-Android Developer
-Entrata India (Nov 2019 – Dec 2022)
-	•	Delivered Resident Portal IoT app (60K+ installs, 4.8★ rating).
-	•	Integrated smart controls, TalkBack, FCM, scene automation.
-	•	Conducted sprint ceremonies, crash reduction, code reviews.
-
-Android Developer
-Prometteur Solutions (Jul 2017 – Sep 2019)
-	•	Delivered travel, logistics, and productivity apps.
-	•	Handled Play Store release cycles, implemented Razorpay.
-
-⸻
-
-🎓 Education & Certifications
-	•	B.E. in Computer Engineering – NMU, 2015
-	•	Diploma in Computer Technology – MSBTE, 2011
-	•	Certifications:
-	•	Android Automotive OS – AOSP (Udemy, 2025)
-	•	Kotlin Essentials – LinkedIn Learning (2021)
-	•	Android Fundamentals – Spark IT Institute (2016)
-
-⸻
-
-📌 About Me
-
-Passionate about building intuitive mobile and IVI experiences that make tech feel seamless and human. I focus on clean architecture, UX-first design, and AOSP-level customization.
-
-📍 Pune, India
-📧 durgeshdilippawar@gmail.com
-🔗 LinkedIn
-📱 GitHub Portfolio
-
-⸻
-
-🌱 Looking Ahead
-	•	Contributing to open-source AOSP & Jetpack libraries
-	•	Blogging Android/AOSP tips and IVI best practices
-	•	Exploring LLMs & AI integrations in Android systems
-
-⸻
+- Exploring deeper AOSP HAL customization  
+- Open-source contributions in Car UI & Jetpack libraries  
+- Building a blog/tutorials section here soon  
 
 Thanks for visiting! ⭐ Star the repo if it helped you or inspired your own Android journey.
