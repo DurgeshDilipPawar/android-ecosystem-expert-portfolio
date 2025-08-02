@@ -1,8 +1,4 @@
-Here’s an updated GitHub README version of your portfolio that integrates all the CV-highlighted skills and project achievements cleanly, while preserving a concise and readable structure. You can copy-paste this to your repository README.md:
-
-⸻
-
-🚀 Durgesh Pawar – Android & AOSP Developer Portfolio
+Durgesh Pawar – Android & AOSP Developer Portfolio
 
 Welcome to my professional portfolio. I’m an Android Developer with 8+ years of experience building robust, secure, and scalable solutions across consumer mobile apps, embedded AOSP layers, and in-vehicle infotainment (IVI) systems.
 
