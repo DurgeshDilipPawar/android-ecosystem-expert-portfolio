@@ -1,5 +1,5 @@
 # android-ecosystem-expert-portfolio
-Android ecosystem portfolio showcasing 8+ years of expertise across apps, AOSP, and Automotive domains.
+Android ecosystem portfolio showcasing 10+ years of expertise across apps, AOSP, and Automotive domains.
 
 # 🚀 Durgesh Pawar – Android & AOSP Developer Portfolio
 
