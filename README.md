@@ -3,7 +3,7 @@ Android ecosystem portfolio showcasing 10+ years of expertise across apps, AOSP,
 
 # 🚀 Durgesh Pawar – Android & AOSP Developer Portfolio
 
-Welcome to my professional portfolio repository. I’m an Android Developer with 8+ years of experience building reliable, secure, and scalable mobile and IVI solutions. From consumer apps using Jetpack Compose to system-level development on Android Automotive OS — this space reflects my journey, skills, and project highlights.
+Welcome to my professional portfolio repository. I’m an Android Developer with 10+ years of experience building reliable, secure, and scalable mobile and IVI solutions. From consumer apps using Jetpack Compose to system-level development on Android Automotive OS — this space reflects my journey, skills, and project highlights.
 
 ---
 
