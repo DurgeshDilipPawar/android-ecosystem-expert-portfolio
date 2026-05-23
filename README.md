@@ -1,6 +1,3 @@
-<img width="1024" height="572" alt="e0cd395a-0cf2-4484-9828-51e394a16c3b" src="https://github.com/user-attachments/assets/8593e6f4-0b92-41d9-bb22-25df04348d92" />
-
-
 # android-ecosystem-expert-portfolio
 Android ecosystem portfolio showcasing 10+ years of expertise across apps, AOSP, and Automotive domains.
 
