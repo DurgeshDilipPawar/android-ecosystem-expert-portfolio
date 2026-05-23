@@ -42,7 +42,6 @@ Welcome to my professional portfolio repository. I’m an Android Developer with
 | Resident Portal App      | IoT controls (lock, fan, AC), scene creator, leak alerts, talkback UI       | Kotlin, Jetpack, Compose, Firebase     | [Resident Portal](https://tinyurl.com/rwsvz3j) |
 | Hotels Charme Caractere  | Hotel discovery, reviews, bookings, and CMS integration                     | Kotlin, Retrofit, Glide                | [App Link](https://tinyurl.com/yxv74w52) |
 | Sobwa Transport System   | Airport package delivery via travelers (Uber-for-parcels concept)           | Kotlin, Firebase, Retrofit             | [App Link](https://tinyurl.com/y9yccdnd) |
-| Diablo Spy App           | Background media capture and control for kids or employees                  | Java, Background Services, Retrofit    | [Portal](http://www.diablospy.com) |
 | Track-It App             | Fleet & delivery driver tracking (admin, customer, driver views)            | Java, Google Maps, Firebase            | [Driver](https://tinyurl.com/yydy8z44), [Customer](https://tinyurl.com/yyt92h7g) |
 | Tenga Social App         | Local business discovery, promotions, real-time post feed                   | Kotlin, Google Places, Firebase        | [App Link](http://tinyurl.com/y8ht34l9) |
 
